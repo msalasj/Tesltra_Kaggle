@@ -15,7 +15,7 @@ Warnings
 
 ## Fase 2:
 ### Descripción:
-Entrenamiento de módelos para predicción. Este caso es de clasificación multivariable.
+Entrenamiento de módelos para predicción. Este caso es de clasificación multivariable. El proyecto se encuentra adjunto en un ZIP.
 ### Software:
 Dataiku
 ### Modelos:
